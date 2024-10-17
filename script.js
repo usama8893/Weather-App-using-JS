@@ -1,7 +1,7 @@
 let isCelsius = true;
 
 function getWeather() {
-  const apiKey = "b2694d4f657dc18092cde4868894de76";
+  const apiKey = "";
   const city = document.getElementById("city").value;
 
   if (!city) {
